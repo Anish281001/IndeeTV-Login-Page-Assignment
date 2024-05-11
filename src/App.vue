@@ -73,14 +73,6 @@ export default {
   },
   methods: {
     handleSubmit() {
-      // if (!this.email) {
-      //   alert("Email field cannot be empty");
-      //   return;
-      // }
-      // if (this.password.length < 8) {
-      //   alert("Password must be at least 8 characters long");
-      //   return;
-      // }
       // Simulate login process
       this.showOverlay = true;
       // Simulate delay for 2 seconds then hide overlay
@@ -88,6 +80,7 @@ export default {
         this.showOverlay = false;
         this.email = ""; // Clear email input
         this.password = ""; // Clear password input
+        this.rememberMe = false;
       }, 1500);
     },
     handleForgotPasswordClick() {
