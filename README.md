@@ -39,9 +39,9 @@ The `App.css` file contains the styling for the login page.
 - **Accessibility:** Appropriate accessibility attributes are used, ensuring the screen is accessible to users with disabilities.
 
 *Screenshot1:*
-[Demo Video](https://drive.google.com/file/d/1QV-eywpp3B7VbsJDUTMyZv30GplLVH4o/view?usp=sharing)
+[Phone](https://drive.google.com/file/d/1QV-eywpp3B7VbsJDUTMyZv30GplLVH4o/view?usp=sharing)
 *Screenshot2:*
-[Demo Video](https://drive.google.com/file/d/1Dr7hf_QuyRK-n-6HsqeX5sUOEt6g5Zd4/view?usp=sharing)
+[Laptop](https://drive.google.com/file/d/1Dr7hf_QuyRK-n-6HsqeX5sUOEt6g5Zd4/view?usp=sharing)
 *Live Demo:*
 [Demo Video](https://drive.google.com/file/d/1CIzJBYkZ7c2EsH6M29e381SeeYS_QAOI/view?usp=sharing)
 
