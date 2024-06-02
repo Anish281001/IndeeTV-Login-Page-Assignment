@@ -22,9 +22,9 @@ The objective of this assignment is to evaluate proficiency in HTML, CSS, and Ja
 2. Install dependencies: `npm install`
 3. Run the development server: `npm run serve`
 
-## App.js
+## App.vue
 
-The `App.js` file contains the Vue component for the login page. It includes HTML template, JavaScript logic, and styling.
+The `App.vue` file contains the Vue component for the login page. It includes HTML template, JavaScript logic, and styling.
 
 ## App.css
 
